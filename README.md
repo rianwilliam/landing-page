@@ -2,4 +2,4 @@
 
 Landing page básica, fiz a partir de algumas referências 
 
-Link: <a href=""> Landing Page </a>
+Link: <a href="https://rianwilliam.github.io/landing-page/"> Landing Page </a>
